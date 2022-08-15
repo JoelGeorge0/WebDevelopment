@@ -1,0 +1,69 @@
+body {
+    background-color: #002B5B;
+}
+
+hr {
+    border-style: none none dotted;
+    border-color: white;
+    width: 5%;
+    border-bottom-width: 5px;
+}
+
+h1,
+h3,
+a {
+    color: #8FE3CF;
+    background-color: #2B4865;
+    text-align: center;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+td,
+thead {
+    color: #8FE3CF;
+    background-color: #2B4865;
+}
+
+p {
+    color: #8FE3CF;
+    background-color: #2B4865;
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-table {
+    margin: auto;
+    width: 70%;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+input,
+textarea {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: #8FE3CF;
+    background-color: #2B4865;
+    text-align: center;
+    width: 20%;
+}
+
+label {
+    color: #8FE3CF;
+    background-color: #2B4865;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    display: block;
+}
