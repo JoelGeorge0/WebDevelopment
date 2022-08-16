@@ -3,23 +3,27 @@ h1 {
     color: red;
 }
 
-img{
+img:hover {
+    background-color: purple;
+}
+
+.bacon {
+    background-color: green;
     height: 2in;
     width: 2in;
 }
 
-.bacon{
-    background-color: green;
-}
-
-.broccoli{
+.broccoli {
     background-color: red;
+    height: 2in;
+    width: 2in;
 }
 
-.circular{
+.circular {
     border-radius: 100%;
+    
 }
 
-#Heading{
+#Heading {
     color: blue;
 }
