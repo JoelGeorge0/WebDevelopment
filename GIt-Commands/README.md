@@ -1,0 +1,1 @@
+rm .git/index.lock -> When there are multiple commits or process u can remove them with this command
